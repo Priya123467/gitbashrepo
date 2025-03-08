@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-05T12:17:13 IST" name="Suite" finished-at="2025-03-05T12:17:13 IST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2025-03-05T12:17:13 IST" name="Test" finished-at="2025-03-05T12:17:13 IST" duration-ms="104">
+      <class name="Package1.ContactTest">
+        <test-method signature="createcontacttest()[pri:0, instance:Package1.ContactTest@3835c46]" started-at="2025-03-05T12:17:13 IST" name="createcontacttest" finished-at="2025-03-05T12:17:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontacttest -->
+        <test-method signature="deletecontacttest()[pri:0, instance:Package1.ContactTest@3835c46]" started-at="2025-03-05T12:17:13 IST" name="deletecontacttest" finished-at="2025-03-05T12:17:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecontacttest -->
+        <test-method signature="modifycontacttest()[pri:0, instance:Package1.ContactTest@3835c46]" started-at="2025-03-05T12:17:13 IST" name="modifycontacttest" finished-at="2025-03-05T12:17:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycontacttest -->
+      </class> <!-- Package1.ContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
